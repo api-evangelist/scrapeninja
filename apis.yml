@@ -1,0 +1,32 @@
+aid: scrapeninja
+name: ScrapeNinja
+description: "Scraping API with Chrome fingerprint and residential proxies"
+url: https://scrapeninja.net
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: ScrapeNinja
+    description: "Scraping API with Chrome fingerprint and residential proxies"
+    humanURL: https://scrapeninja.net
+    baseURL: https://scrapeninja.net
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://scrapeninja.net
+common:
+  - type: Website
+    url: https://scrapeninja.net
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
