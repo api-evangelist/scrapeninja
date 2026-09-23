@@ -1,0 +1,32 @@
+# Front Door AI Index — scrapeninja — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: scrapeninja
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: scrapeninja.net
+  final_host: scrapeninja.net
+  ownership: own
+  owner: scrapeninja
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 8
+  host_score: 8
+  density: 8.5
+  words: 941
+  tiers:
+    agentic: 3
+    core: 5
+    model: 0
+  ambiguous: 8
+  top_terms:
+    AI: 3
+    LLMs: 2
+    agent: 2
+    agentic: 2
+    automation: 2
+    intelligence: 2
+    smart: 2
+    AI agent: 1
