@@ -39,7 +39,6 @@ apis:
   - name: ScrapeNinja
     description: "Scraping API with Chrome fingerprint and residential proxies"
     humanURL: https://scrapeninja.net
-    baseURL: https://scrapeninja.net
     tags:
       - Development
     properties:
